@@ -9,4 +9,4 @@ Cast-256 is delivered with EC El-Gamal.
 
 ### Thanks to Jewpigeon for implementing Cast-256 and CBC mode.
 
-### * The project does not contain a server client implementation, Just only the flow of how everything should connect together.
+* The project does not contain a server client implementation, Just only the flow of how everything should connect together.
